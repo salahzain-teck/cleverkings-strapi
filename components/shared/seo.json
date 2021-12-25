@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_seos",
+  "info": {
+    "name": "seo",
+    "icon": "apple-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "metaDescription": {
+      "type": "string"
+    },
+    "shareImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.share-image"
+    },
+    "metaTtile": {
+      "type": "string"
+    }
+  }
+}
